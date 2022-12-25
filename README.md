@@ -5,7 +5,7 @@
 <h3>1. Programming Languages </h3>
 <p align="left">
     &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img alt="Dark" src="https://user-images.githubusercontent.com/107548404/209466077-48ba78fb-4890-4311-aaaf-9839602f21b5.png" width="10%" height="10%">
+    <img alt="Dark" src="https://user-images.githubusercontent.com/107548404/209466077-48ba78fb-4890-4311-aaaf-9839602f21b5.png" width="8%" height="10%">
     &nbsp; &nbsp; &nbsp; &nbsp; 
    <img src="https://user-images.githubusercontent.com/107548404/209465992-a1d9d7c3-6364-4b9c-b6c1-26580fecc996.png" width="10%" height="10%">
     &nbsp; &nbsp; &nbsp; &nbsp; 
