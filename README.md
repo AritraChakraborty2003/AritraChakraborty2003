@@ -19,20 +19,20 @@
 
 <h3>2. Web Development Technologies </h3>
 <p align="left">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp; 
     <img alt="Dark" src="https://user-images.githubusercontent.com/107548404/209466499-1e872f77-34ab-45cc-b089-767db402aabe.png" width="10%" height="7%">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp; 
    <img src="https://user-images.githubusercontent.com/107548404/209466548-a9f08252-f8ef-47f0-8978-d9cbdc78f3dc.png" width="10%" height="7%">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp; 
    <img src="https://user-images.githubusercontent.com/107548404/209466654-11f6eaa7-1942-4fa9-96bf-9b8a155f276b.png" width="10%" height="7%">
-   &nbsp; &nbsp; &nbsp; &nbsp; 
+   &nbsp; 
    <img src="https://user-images.githubusercontent.com/107548404/209466564-b9a09de3-9d35-4284-9d77-2ec66d2f9d62.png" width="14%" height="7%">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp;
    <img src="https://user-images.githubusercontent.com/107548404/209467085-fe3f270a-eb77-4506-92f0-e830c6201a35.svg" width="10%" height="7%">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp; 
    <img src="https://user-images.githubusercontent.com/107548404/209467117-cb37da3a-8cb0-4693-9de2-c29c26f0891f.png" width="10%" height="7%">
-   &nbsp; &nbsp; &nbsp; &nbsp; 
-   <img src="https://user-images.githubusercontent.com/107548404/209467194-e8265d63-5c34-4b29-8878-6bf174821414.png" width="10%" height="7%">
+   &nbsp;  &nbsp;
+   <img src="https://user-images.githubusercontent.com/107548404/209467194-e8265d63-5c34-4b29-8878-6bf174821414.png" width="8%" height="7%">
 </p>
 
 
