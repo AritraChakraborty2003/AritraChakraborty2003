@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/aritra chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra chakraborty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gungun897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gungun897" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aritrachakraborty487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aritrachakraborty487" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
