@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra Chakraborty</h1>
-<h3 align="center">A software developer by Passion</h3>
+<h4 align="center">Always looking for new ways to push the boundaries of what's possible with <b>frontend</b> and <b>Android development</b></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrachakraborty2003&label=Profile%20views&color=0e75b6&style=flat" alt="aritrachakraborty2003" /> </p>
 
