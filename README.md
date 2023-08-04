@@ -46,3 +46,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aritrachakS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aritrachakS" /></a><a href="https://ko-fi.com/Aritra Chakraborty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Aritra Chakraborty" /></a></p><br><br>
+
+<br>
+<br>
+
+<h3>&nbsp;🏆  <u>Github Trophies</u></h3>
+<p align="left"> &nbsp;&nbsp;&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrachakraborty2003" alt="aritrachakraborty2003"/></a> </p>
+
