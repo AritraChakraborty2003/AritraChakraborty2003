@@ -8,7 +8,7 @@
 
 - 📈  My website link [https://innovate-with-code.co.in/]
 
-- 💬 Ask me about **Java,HTML,CSS,JS,React,Android,IOT**
+- 💬 Ask me about **Java,HTML,CSS,JS,React,Android,IOT,django**
 
 - 📫 How to reach me **aritra.chakraborty203@gmail.com**
 
