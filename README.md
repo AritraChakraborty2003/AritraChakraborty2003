@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra Chakraborty</h1>
-<h4 align="center">Always looking for new ways to push the boundaries !!! For <strong>Frontend </strong> and <strong>Android-Development 👨‍💻  <strong></strong></h4>
+<h4 align="center">Always looking for new ways to push the boundaries !!! For <strong>Fullstack </strong> and <strong>Android-Development 👨‍💻  <strong></strong></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrachakraborty2003&label=Profile%20views&color=0e75b6&style=flat" alt="aritrachakraborty2003" /> </p>
 
