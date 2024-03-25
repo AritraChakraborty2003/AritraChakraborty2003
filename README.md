@@ -2,7 +2,7 @@
 <h4 align="center">Always looking for new ways to push the boundaries !!! For <strong>Fullstack Web </strong> and <strong>Android-Development 👨‍💻  <strong></strong></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrachakraborty2003&label=Profile%20views&color=0e75b6&style=flat" alt="aritrachakraborty2003" /> </p>
-
+&nbsp;&nbsp;
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/AritraChakraborty2003?tab=repositories]
 
