@@ -43,9 +43,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrachakraborty2003&show_icons=true&locale=en&layout=compact" alt="aritrachakraborty2003" /></p>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrachakraborty2003&show_icons=true&locale=en&layout=compact" alt="aritrachakraborty2003" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrachakraborty2003&show_icons=true&theme=radical&locale=en" alt="aritrachakraborty2003" /></p>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrachakraborty2003&show_icons=true&theme=radical&locale=en" alt="aritrachakraborty2003" /></a>
 
 
 <h3 align="left">Support:</h3>
