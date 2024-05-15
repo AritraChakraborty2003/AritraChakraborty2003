@@ -57,3 +57,4 @@
 <h3>&nbsp;🏆  <u>Github Trophies</u></h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrachakraborty2003" alt="aritrachakraborty2003"/></a> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AritraChakraborty2003&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)]
