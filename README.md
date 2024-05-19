@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/AritraChakraborty2003?tab=repositories]
 
-- 📈  My website link [https://aritrachakraborty-porfolio.netlify.app/]
+- 📈  My website link [https://aritrachakraborty-portfolio.netlify.app/]
 
 - 💬 Ask me about **Java,HTML,CSS,JS,React,Android,IOT,django**
 
