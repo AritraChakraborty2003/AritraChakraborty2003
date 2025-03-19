@@ -59,6 +59,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AritraChakraborty2003&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)]
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritrachakraborty2003&" alt="aritrachakraborty2003" /></p>
